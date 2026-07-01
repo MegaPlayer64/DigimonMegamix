@@ -41,21 +41,52 @@
                 Ejemplo: 2 partidas para Baby II, 4 partidas para Child, 8  para Adult (Esta etapa todavia no esta programada), etc.
 
 ## Lineas Evolutivas actuales:
---------------------------------------
-Baby I  -> Baby II  -> Child
---------------------------------------
-Botamon -> Koromon  -> Agumon (Vacuna)
-                    -> Candmon (Datos)
-        -> Pagumon  -> Gazimon (Virus)
+Actualmente, el juego cuenta con las siguientes ramificaciones desde la etapa Baby I hasta la etapa Child:
 
-Punimon -> Tunomon  -> Gobamon (Datos)
-                    -> Betamon (Virus)
-        -> Pukamon  -> Gomamon (Vacuna)            
+Botamon (Baby I)
 
-Nyokimon-> Pyocomon -> Piyomon (Vacuna)
-                    -> PicoDevimon (Virus)
-        -> Tanemon  -> Palmon (Datos)
+➔ Koromon (Baby II)
 
-Choromon-> Caprimon -> Hagurumon (Virus)
-                    -> Kokuwamon (Datos)
-        -> Mochimon -> Tentomon (Vacuna)
+    ➔ Agumon (Vacuna / Child)
+
+    ➔ Candmon (Datos / Child)
+
+➔ Pagumon (Baby II)
+
+    ➔ Gazimon (Virus / Child)
+
+Punimon (Baby I)
+
+➔ Tunomon (Baby II)
+
+    ➔ Gobamon (Datos / Child)
+
+    ➔ Betamon (Virus / Child)
+
+➔ Pukamon (Baby II)
+
+    ➔ Gomamon (Vacuna / Child)
+
+Nyokimon (Baby I)
+
+➔ Pyocomon (Baby II)
+
+    ➔ Piyomon (Vacuna / Child)
+
+    ➔ PicoDevimon (Virus / Child)
+
+➔ Tanemon (Baby II)
+
+    ➔ Palmon (Datos / Child)
+
+Choromon (Baby I)
+
+➔ Caprimon (Baby II)
+
+    ➔ Hagurumon (Virus / Child)
+
+    ➔ Kokuwamon (Datos / Child)
+
+➔ Mochimon (Baby II)
+
+    ➔ Tentomon (Vacuna / Child)
