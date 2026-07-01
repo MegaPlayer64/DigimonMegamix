@@ -1,14 +1,20 @@
-¿Cómo son los valores de vida?
+# Digimon Megamix
+
+¡Bienvenido a **DigimonMegamix**! Un juego de combate y estrategia simple inspirado en el universo Digimon, donde seleccionas a tu compañero digital, participas en batallas contra otras criaturas y gestionas su línea evolutiva en base a tu rendimiento en los combates.
+
+## Preguntas Frecuentes:
+
+### ¿Cómo son los valores de vida?
         Baby I = 100 hp
         Baby II = 200 hp
         Child = 400 hp
 
-¿Cómo son los valores de ataques?
+### ¿Cómo son los valores de ataques?
         Baby I = 20 (Todos)
         Baby II = 30 (Todos)
         Child = 30 (Todos) 40 (Tipo especifico)
 
-¿Cómo se cuanto daño hare?
+### ¿Cómo se cuanto daño hare?
         Dentro del juego hay 3 modalidades de ataques:
 
         - Atributos: Estos son los ataques "Virus", "Vacuna" y "Datos".
@@ -21,7 +27,7 @@
 
         - Variable: El ataque selecionara un "Atributo" aleatorio, pasando por el mismo proceso usual pero con un bono del x1.1
 
-¿Cómo funciona las evoluciones?
+### ¿Cómo funciona las evoluciones?
         Las evoluciones potencionan los ataques depende su categoria
         - Los Baby II una potencia general a los ataques (x1.5)
         - Los Child potencian una especializada en su elemento (Pasa a ser x2 en ese elemento)
@@ -29,12 +35,12 @@
         - Los Baby II en un 100% 
         - Los Child en un 200%
 
-¿Cómo se obtienen las evoluciones?
+### ¿Cómo se obtienen las evoluciones?
         Después de cierta cantidad de batallas ganadas, se logra evolucionar depende tu cantidad de partidas y radio de victorias.
         - Si es mayor a 50% pasa a evolucionar posterior a una potencia de 2 de partidas.
                 Ejemplo: 2 partidas para Baby II, 4 partidas para Child, 8  para Adult (Esta etapa todavia no esta programada), etc.
 
-Lineas Evolutivas actuales:
+## Lineas Evolutivas actuales:
 --------------------------------------
 Baby I  -> Baby II  -> Child
 --------------------------------------
