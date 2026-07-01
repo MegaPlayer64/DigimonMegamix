@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digimon: Megamix</title>
+    <script src="./js/Megamonsters.js"></script>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <img class="title" src="./assets/images/Logo.png" alt="Digimon Megamix">
+    <p>Una versión modficada de "Mokemon!" de los cursos de Platzi pero en este caso enfocado a "Digimon" en vez de "Pokemon" (Version N°1)</p>
+
+    <section id="select-monster">
+       
+        <h1>Elige a tu mascota:</h1>
+   
+
+        <label for="Botamon">Botamon</label>
+        <label for="Botamon"><img for="Botamon" src="./assets/images/Botamon.webp" alt="Botamon-Image"></label>
+        <input type="radio" id="Botamon" name="StartMonster">
+        <BR>
+        <label for="Nyokimon">Nyokimon</label>
+        <label for="Nyokimon"><img for="Nyokimon" src="./assets/images/Nyokimon.webp" alt="Nyokimon-Image"></label>
+        <input type="radio" id="Nyokimon" name="StartMonster">
+        <BR>
+        <label for="Punimon">Punimon</label>
+        <label for="Punimon"><img for="Punimon" src="./assets/images/Punimon.webp" alt="Punimon-Image"></label>
+        <input type="radio" id="Punimon" name="StartMonster">
+        <BR>
+        <label for="Choromon"">Choromon</label>
+        <label for="Choromon""><img for="Choromon" src="./assets/images/Choromon.webp" alt="Choromon-Image"></label>
+        <input type="radio" id="Choromon" name="StartMonster">
+        <BR>
+        <button id="button-select">Seleccionar</button>
+        <BR>
+    </section>
+
+    <section id="select-attack">
+        <h2>Elige tu ataque: </h2>
+        <h3>Tu mascota <span id="mymonster"></span> tiene  <span id="mylife"></span> vidas</h3>
+        <h3>La mascota <span id="enemymonster"></span> del enemigo tiene <span id="enemylife"></span> vidas</h3>
+        <h5>Llevas <span id="played"></span> partidas jugadas y <span id="win"></span> ganadas</h5>
+        <div>
+            <button id="attack_virus">Virus🦠</button>
+            <button id="attack_vacune">Vacuna💉</button>
+            <button id="attack_data">Data🔢</button>
+            <button id="attack_free">Libre🔃</button>
+            <button id="attack_variable">Variable🎲</button>
+            
+        </div>
+        <BR>
+    </section>
+    <BR>
+    <section id="monster-image">
+        <img id="mymonsterimg">
+        <img id="enemymonsterimg">
+    </section>
+    <BR>
+    <section id="mensajes">
+        <h2>'Registro'</h2>
+    </section>
+
+    
+</body>
+</html>

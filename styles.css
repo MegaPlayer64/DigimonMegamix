@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+.exo-2 {
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+    border:10px;
+
+    background-color: #0C1844;
+    border-radius: 10px;
+    border: #FFF5E1;
+
+
+    font-family: 'Exo 2';
+}
+
+#select-attack {
+    background-color: #009a98;
+    height: 50%;
+    width: 50%;    
+    margin: 1%;
+    border-radius: 20px;
+
+}
+
+#monster-image {
+    display: flex;  
+    justify-content: space-around;
+    background-color: #C80036;
+    height: 50%;
+    width: 50%;    
+    border-radius: 20px;
+}
+
+#select-monster {
+    background-color: #C80036;
+    height: 50%;
+    width: 50%;
+    display: flex;    
+    border-radius: 20px;
+    margin: 1%;
+    flex-direction: column;
+    align-content: space-around;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+img {
+    border-radius: 20px;
+    width: 60px;
+    height: 60px;
+}
+
+.title {
+    display: flex;
+    color: tomato;
+    background-color: #d42b58;
+    width: 200px;
+    height: 20%;
+    border-radius: 20px;
+}
+
+
+label {
+    display: flex;
+    justify-content: center;
+    background-color: #FF6969; 
+    height: 20%;
+    width: 20%;
+    margin: 5px;
+    border-radius: 20px;
+}
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 1%;
+    background-color: #FF6969; 
+    border-radius: 20px;
+}
+
+#mensajes {
+    border-radius: 20px;
+    background-color: #C80036;
+    margin: 1%;
+}
+
+button {
+    background-color: FFF5E1;
+    border-radius: 20px;
+    width: 19%;
+}
