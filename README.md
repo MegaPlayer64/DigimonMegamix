@@ -45,48 +45,48 @@ Actualmente, el juego cuenta con las siguientes ramificaciones desde la etapa Ba
 
 Botamon (Baby I)
 
-➔ Koromon (Baby II)
+    ➔ Koromon (Baby II)
 
-    ➔ Agumon (Vacuna / Child)
+        ➔ Agumon (Vacuna / Child)
 
-    ➔ Candmon (Datos / Child)
+        ➔ Candmon (Datos / Child)
 
-➔ Pagumon (Baby II)
+    ➔ Pagumon (Baby II)
 
-    ➔ Gazimon (Virus / Child)
+        ➔ Gazimon (Virus / Child)
 
 Punimon (Baby I)
 
-➔ Tunomon (Baby II)
+    ➔ Tunomon (Baby II)
 
-    ➔ Gobamon (Datos / Child)
+        ➔ Gobamon (Datos / Child)
 
-    ➔ Betamon (Virus / Child)
+        ➔ Betamon (Virus / Child)
 
-➔ Pukamon (Baby II)
+    ➔ Pukamon (Baby II)
 
-    ➔ Gomamon (Vacuna / Child)
+        ➔ Gomamon (Vacuna / Child)
 
 Nyokimon (Baby I)
 
-➔ Pyocomon (Baby II)
+    ➔ Pyocomon (Baby II)
 
-    ➔ Piyomon (Vacuna / Child)
+        ➔ Piyomon (Vacuna / Child)
 
-    ➔ PicoDevimon (Virus / Child)
+        ➔ PicoDevimon (Virus / Child)
 
-➔ Tanemon (Baby II)
+    ➔ Tanemon (Baby II)
 
-    ➔ Palmon (Datos / Child)
+        ➔ Palmon (Datos / Child)
 
 Choromon (Baby I)
 
-➔ Caprimon (Baby II)
+    ➔ Caprimon (Baby II)
 
-    ➔ Hagurumon (Virus / Child)
+        ➔ Hagurumon (Virus / Child)
 
-    ➔ Kokuwamon (Datos / Child)
+        ➔ Kokuwamon (Datos / Child)
 
-➔ Mochimon (Baby II)
+    ➔ Mochimon (Baby II)
 
-    ➔ Tentomon (Vacuna / Child)
+        ➔ Tentomon (Vacuna / Child)
